@@ -1,0 +1,5 @@
+pip install pandas
+
+pip install pymysql
+
+pip install tkinter
